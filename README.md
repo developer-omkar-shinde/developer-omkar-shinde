@@ -3,16 +3,16 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Omkar+Shinde;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Omkar Shinde, Computer Engineer & Software Developer from INDIA
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm currently woking as Frontend Developer
   <br>
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
@@ -20,7 +20,7 @@
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+<p align="center"> <a href="https://www.linkedin.com/in/mr-omkar-shinde"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
    <a href="https://twitter.com/HalemoGPA"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
