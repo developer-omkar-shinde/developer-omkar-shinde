@@ -30,9 +30,9 @@
 <br>
 
 <hr>
-<p align="center">
+<!-- <p align="center">
   <a href="https://buymeacoffee.com/omkarshinde" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Omkar shinde buy me a coffee" width="230"></a>
-</p>
+</p> -->
  
 <p align="center">
  
